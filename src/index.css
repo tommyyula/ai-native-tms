@@ -34,6 +34,6 @@
   }
   
   .agent-card:hover {
-    @apply border-primary-200 shadow-primary-100/50;
+    @apply border-blue-200 shadow-lg;
   }
 }
